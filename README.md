@@ -2,7 +2,7 @@
 
 This project is a Spring Boot application designed to fetch and display the latest Jayoda Lottery Results. It also stores the results in a MySQL database for easy retrieval, tracking, and record keeping.
 
-##📌 Key Features
+## 📌 Key Features
 
 🌐 Fetch Live Results – Gets the latest results directly from the official lottery website.
 
@@ -14,7 +14,7 @@ This project is a Spring Boot application designed to fetch and display the late
 
 📊 History Tracking – Maintains past results for reference and analysis.
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Java & Spring Boot – For backend application logic.
 
