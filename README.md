@@ -23,3 +23,13 @@ Spring Data JPA & Hibernate – For smooth database operations.
 MySQL Database – To store and manage lottery results.
 
 Jsoup – To parse and extract information from the official results page.
+
+## 📖 How It Works
+
+The application connects to the official lottery results page.
+
+It extracts the lottery title, winning numbers, and draw date.
+
+Results are displayed in the console for immediate viewing.
+
+The same results are saved into a MySQL table for long-term storage.
