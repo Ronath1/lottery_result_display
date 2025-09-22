@@ -33,3 +33,13 @@ It extracts the lottery title, winning numbers, and draw date.
 Results are displayed in the console for immediate viewing.
 
 The same results are saved into a MySQL table for long-term storage.
+
+## 🚀 Use Cases
+
+📌 Personal Tracking – Keep a history of lottery results.
+
+📌 Business Integration – Display results on websites or dashboards.
+
+📌 Automation – Schedule daily updates without manual checking.
+
+📌 Data Analysis – Store results for statistical tracking and insights.
