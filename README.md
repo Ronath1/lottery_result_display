@@ -43,3 +43,15 @@ The same results are saved into a MySQL table for long-term storage.
 📌 Automation – Schedule daily updates without manual checking.
 
 📌 Data Analysis – Store results for statistical tracking and insights.
+
+## 🔮 Future Improvements
+
+✅ Expose results via REST API (fetch by date, latest draw, etc.).
+
+✅ Add a web frontend for public display.
+
+✅ Include a daily scheduler to auto-update results.
+
+✅ Create a visualization dashboard for trends and analytics.
+
+## ✨ This project is a foundation for building automated lottery tracking systems. It can grow into a full-featured application with APIs, dashboards, and scheduled updates.
